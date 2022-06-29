@@ -4,3 +4,18 @@ A. 	Intro
 	3. Membuat Akun GITHUB
 	4. Menginstall Text Editor (VScode)
 	5. Menginstall Sourcetree
+
+B.	Fundamental GIT
+	1. Mengetahui penggunaan git init 
+	2. Mengetahui penggunaan git config
+	   a. Config Local
+	   b. Config Global
+	3. Mengetahui penggunaan git status
+	4. Mengetahui penggunaan git add
+	5. Mengetahui penggunaan git log
+	6. Mengetahui penggunaan git commit
+	7. Mengetahui penggunaan git clone
+	8. Mengetahui penggunaan git remote
+	9. Mengetahui penggunaan git push
+	10.Mengetahui penggunaan git pull
+		
