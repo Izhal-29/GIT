@@ -1,0 +1,6 @@
+A. 	Intro
+	1. Mengenal apa itu GIT
+	2. Menginstall GIT
+	3. Membuat Akun GITHUB
+	4. Menginstall Text Editor (VScode)
+	5. Menginstall Sourcetree
