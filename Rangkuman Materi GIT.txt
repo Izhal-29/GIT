@@ -26,4 +26,9 @@ C.	Branch
 	4. Melakukan Push terhadap branch 
 	5. Melakukan Merge antar branch
 	6. Menangani Conflig antar branch
+
+D.	GUI Tolls
+	1. Mengetahui cara menggunakan tools Sourcetree untuk menoprasikan GIT
+	2. Menginstalasi tool tambahan untuk Sourcetree untuk menangani Conflig
+	3. Pengaplikasian perintah-perintah git menggunakan Sourcetree berbasis GUI
 		
