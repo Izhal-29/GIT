@@ -18,4 +18,12 @@ B.	Fundamental GIT
 	8. Mengetahui penggunaan git remote
 	9. Mengetahui penggunaan git push
 	10.Mengetahui penggunaan git pull
+
+C.	Branch
+	1. Membuat dan menghapus branch baru
+	2. Mengetahui cara berpindah dari branch satu ke branch yang lain
+	3. Melakukan Pull terhadap branch master
+	4. Melakukan Push terhadap branch 
+	5. Melakukan Merge antar branch
+	6. Menangani Conflig antar branch
 		
